@@ -15,7 +15,7 @@ A continuación, se detallan los módulos y las actividades que he completado:
 ### Módulo 4: JavaScript desde Cero
 - **Actividad 1**: [Proyecto Introducción a ECMAScript](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/IntroduccionAECMAScript)
 - **Actividad 2**: [Proyecto Estructuras de Datos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/EstructurasDeDatos)
-- **Actividad 3**: [Proyecto Algoritmo de Los 2 Punteros](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/M%C3%A9todosDeArreglos)
+- **Actividad 3**: [Proyecto Métodos de Arreglos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/M%C3%A9todosDeArreglos)
 
 # Actividades Dev Campus
 
@@ -34,9 +34,10 @@ A continuación, se detallan los módulos y las actividades que he completado:
 - **Actividad 1**: [Proyecto Introducción a ECMAScript](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/IntroduccionAECMAScript)
 - **Actividad 2**: [Proyecto Estructuras de Datos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/EstructurasDeDatos)
 - **Actividad 3**: [Proyecto Métodos de Arreglos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/M%C3%A9todosDeArreglos)
-- **Actividad 4**: [Proyecto Métodos de Arreglos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/AlgoritmoDeLos2Punteros)
+- **Actividad 4**: [Proyecto Algoritmo de Los 2 Punteros](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/AlgoritmoDeLos2Punteros)
 
 ## Proyectos
+
 * Pendiente de agregar proyectos.
 
 ## Tecnologías Utilizadas
