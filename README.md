@@ -17,6 +17,7 @@
  - **Actividad 2**: [Proyecto Estructuras de Datos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/EstructurasDeDatos)
  - **Actividad 3**: [Proyecto Métodos de Arreglos](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/M%C3%A9todosDeArreglos)
  - **Actividad 4**: [Proyecto Algoritmo de Los 2 Punteros](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/AlgoritmoDeLos2Punteros)
+ - **Actividad 5**: [Proyecto del Algoritmo Sliding Window](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/AlgoritmoSlidingWindow)
  
  ## 🚀 Proyectos
  
