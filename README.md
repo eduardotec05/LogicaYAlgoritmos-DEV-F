@@ -22,6 +22,8 @@
   - **Actividad 7**: [Proyecto del Divide y Venceras](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/DivideYVenceras)
 
  ## 🚀 Proyectos
+
+ - **Proyecto**: [Buscador de recetas inteligente](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/ProyectoIntroduccionNode.js)
  
  
  ## 🛠️ Tecnologías Utilizadas
