@@ -25,6 +25,8 @@
 
  - **Proyecto**: [Buscador de recetas inteligente](https://github.com/eduardotec05/LogicaYAlgoritmos-DEV-F/tree/main/ProyectoIntroduccionNode.js)
  
+ - [Link para usar el buscador de recetas](https://buscador-recetas-inteligente.vercel.app/)
+ 
  
  ## 🛠️ Tecnologías Utilizadas
  
